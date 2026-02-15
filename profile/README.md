@@ -15,6 +15,12 @@ To learn more about using Eask as a code launcher and runtime environment, check
 - [Treat Emacs as an Elisp Runtime using Eask](https://www.jcs-profile.com/posts/editor/elisp-runtime/)
 - [How to build your own ELPA with Eask?](https://www.jcs-profile.com/posts/editor/build-elpa/)
 
+> [!NOTE]
+>
+> *📝 The entire EINE project is still in its early stages and largely experimental.
+> Some tools may be incomplete, unstable, or lack long-term guarantees, so EINE should
+> currently be considered a playground for exploration rather than a production-ready ecosystem.*
+ 
 
 <!-- Links -->
 
