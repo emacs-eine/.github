@@ -2,7 +2,7 @@ EINE (EINE Is NOT Emacs!) is a collection of software that does not use Emacs in
 Instead, it treats Emacs Lisp as a general-purpose programming language, and the software built with it can be used for regular development tasks,
 just like other languages (e.g. [Python][], [Java][], [Rust][], and [C][]).
 
-Currently, most packages are hosted on [JCS-ELPA][]. However, in most cases you don’t need to worry about where these packages are hosted,
+Currently, most packages are hosted on [EINE Elpa][]. However, in most cases you don’t need to worry about where these packages are hosted,
 since they are not designed to be used directly in your Emacs configuration.
 
 We use [Eask][] as the package manager because it supports global, local, and configuration-space installations.
@@ -30,4 +30,5 @@ To learn more about using Eask as a code launcher and runtime environment, check
 [Python]: https://www.python.org/
 
 [JCS-ELPA]: https://jcs-emacs.github.io/jcs-elpa/
+[EINE Elpa]: https://github.com/emacs-eine/elpa/
 [Eask]: https://emacs-eask.github.io/
